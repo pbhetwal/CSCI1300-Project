@@ -1,0 +1,9 @@
+Small Pepperoni,5.50 
+Medium Pepperoni,7.79 
+Large Pepperoni,10.00 
+Small Cheese,5.00 
+Medium Cheese,7.30 
+Large Cheese,9.40 
+Small Vegetable,4.89 
+Medium Vegetable,7.00
+Large Vegetable,9.20 

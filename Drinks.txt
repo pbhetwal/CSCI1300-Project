@@ -1,0 +1,9 @@
+Small Soda,1.50
+Medium Soda,2.00
+Large Soda,2.50 
+Small Lemonade,2.00
+Medium Lemonade,2.50 
+Large Lemonade,3.00 
+Small Water,1.00
+Medium Water,1.20
+Large Water,1.40
