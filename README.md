@@ -7,7 +7,7 @@ CU Boulder CSCI 1300 Project
 ### Project Details 
 This project is for a simple model of a restaurant. 
 #### 1) It will show the user a menu of drinks and food.
-#### 2) Asks for the user's name
+#### 2) Asks for the user's name.
 #### 3) Writes this name to a another file if they are the first customer. 
 #### 4) Allows them to pick items from this said menu. 
 #### 5) Asks the user if they would like to tip.
